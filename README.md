@@ -65,7 +65,7 @@ ESC	Пауза
 F11	Полный экран
 👤 Об авторе
 NoiZoN — студент 2-го курса IT Хаба.
-Пишу на Python и C#, делаю игры и учусь превращать идеи в код.
+Пишу на Python и C#
 
 GitHub: @noizon
 Telegram: @NoiZoNxSolo
